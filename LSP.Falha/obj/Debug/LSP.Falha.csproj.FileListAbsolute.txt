@@ -1,0 +1,7 @@
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\bin\Debug\LSP.Falha.exe.config
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\bin\Debug\LSP.Falha.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\bin\Debug\LSP.Falha.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\obj\Debug\LSP.Falha.csprojAssemblyReference.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\obj\Debug\LSP.Falha.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\obj\Debug\LSP.Falha.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.LSP.DesignPattern\LSP.Falha\obj\Debug\LSP.Falha.pdb
